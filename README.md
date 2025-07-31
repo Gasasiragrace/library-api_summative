@@ -267,10 +267,6 @@ The application uses minimal configuration:
 - No sensitive data stored in the repository
 
 
-## License
 
-This project is for educational purposes. Open Library API usage follows their terms of service.
-
----
 
  
