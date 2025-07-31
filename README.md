@@ -266,25 +266,6 @@ The application uses minimal configuration:
 - Environment-specific settings in `env.js`
 - No sensitive data stored in the repository
 
-## Performance Optimizations
-
-- Debounced search to reduce API calls
-- Efficient DOM manipulation
-- Responsive image loading
-- Proper error boundaries
-
-## Credits
-
-- **Open Library API**: Provided by Internet Archive - https://openlibrary.org/
-- **Book Data**: Courtesy of Open Library's extensive database
-- **Icons and Styling**: Custom CSS implementation
-
-## Contributing
-
-This project was developed as part of an academic assignment. For improvements or suggestions:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
 
 ## License
 
